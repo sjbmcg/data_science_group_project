@@ -1,0 +1,25 @@
+self_employed:'No' -> 0 'Unknown' -> 1 'Yes' -> 2
+
+family_history:'No' -> 0 'Yes' -> 1
+
+treatment:'No' -> 0 'Yes' -> 1
+
+work_interfere:'Never' -> 0 'Often' -> 1 'Rarely' -> 2 'Sometimes' -> 3 'nan' -> 4 (表示缺失值)
+
+leave: "Don't know" -> 0 'Somewhat difficult' -> 1 'Somewhat easy' -> 2 'Very difficult' -> 3 'Very easy' -> 4
+
+mental_health_consequence: 'Maybe' -> 0 'No' -> 1 'Yes' -> 2
+
+phys_health_consequence: 'Maybe' -> 0 'No' -> 1 'Yes' -> 2
+
+coworkers:'No' -> 0 'Some of them' -> 1 'Yes' -> 2
+
+supervisor:'No' -> 0 'Some of them' -> 1 'Yes' -> 2
+
+mental_health_interview: 'Maybe' -> 0 'No' -> 1 'Yes' -> 2
+
+phys_health_interview:'Maybe' -> 0 'No' -> 1 'Yes' -> 2
+
+mental_vs_physical: "Don't know" -> 0 'No' -> 1 'Yes' -> 2
+
+obs_consequence:'No' -> 0 'Yes' -> 1
