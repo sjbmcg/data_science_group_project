@@ -1,0 +1,35 @@
+What we discussed about this week.
+
+Adam 
+
+He has completed cleaning and processing the data. The processed data has been available on GitHub. 
+He has talked about the steps and issues he has faced while coding this.
+
+
+Xiao 
+
+He has started to code the EDA portion and looks at different trends, e.g. the distribution of genders within the tech industry. 
+He has additionally cleaned parts of the data as at the time Adam hasn't pushed that work. 
+
+
+Yuanlin 
+"
+Overall aim(example)
+Explore the impact of work environment, personal background and other factors on mental health. Predict whether a person needs mental health treatment through machine learning modeling.
+ 
+Processing Modules
+Step 1: Data cleaning
+Step 2: Feature engineering
+Step 3: Exploratory data analysis (EDA)
+Step 4: Model training and evaluation
+Step 5: Results visualization
+ 
+Algorithms
+KNN, Logistic Regression
+ 
+Specific objectives
+Objective 1 Results: Explain the data quality and distribution after data cleaning.
+Objective 2 Results: Analyze the relationship between xxxx and mental health problems.
+Objective 3 Results: Show the results of the prediction model.
+Objective 4 Results: Show the key findings of the data visualization.
+"
