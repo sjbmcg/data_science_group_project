@@ -1,20 +1,19 @@
-Week 3 Objectives
+# Week 3 Objectives
 
-Stephen
+## Stephen
+- **By Friday**: Complete the data section by describing the data source, dataset contents, and assessing accuracy.
+- Clean up the project template by removing placeholder italicized text.
 
-By Friday, complete the data section: describe the data source, dataset contents, and assess accuracy.
-Clean up the project template by removing placeholder italicized text.
-Yualin
+## Yualin
+- Implement the **K-Nearest Neighbors (KNN)** and **Logistic Regression** models.
+- Conduct initial testing and performance evaluation.
 
-Implement the K-Nearest Neighbors (KNN) and Logistic Regression models with initial testing and performance evaluation.
-Adam
+## Adam
+- Identify and document any data accuracy issues (e.g., inconsistencies in gender, age) to support Stephen’s data section by Friday.
 
-Identify and document any data accuracy issues (e.g., inconsistencies in gender, age) to support Stephen’s data section by Friday.
-Xiao
-
-Organize the notebook with clear, logical sections (e.g., Data Cleaning, Exploratory Data Analysis, Modeling) using code blocks. Add a markdown cell above each code block to briefly explain each step’s purpose.
-
-
-
-
-
+## Xiao
+- Organize the notebook with clear, logical sections:
+  - *Data Cleaning*
+  - *Exploratory Data Analysis*
+  - *Modeling*
+- Use code blocks and add markdown cells above each to explain each step’s purpose briefly.
