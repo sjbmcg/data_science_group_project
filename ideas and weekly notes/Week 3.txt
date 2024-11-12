@@ -9,11 +9,7 @@
 - Conduct initial testing and performance evaluation.
 
 ## Adam
-<<<<<<< Updated upstream
 - Identify and document any data accuracy issues (e.g., inconsistencies in gender, age) to support Stephen’s data section by Friday (20-30 words)
-=======
-- Identify and document any data accuracy issues (e.g., inconsistencies in gender, age) to support Stephen’s data section by Friday.
->>>>>>> Stashed changes
 
 ## Xiao
 - Organize the notebook with clear, logical sections:
