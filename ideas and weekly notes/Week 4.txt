@@ -1,0 +1,21 @@
+System Design
+ Refine system design for distinction-level work.
+ Add and justify design choices with diagrams and examples.
+ Ensure alignment with project objectives and proper documentation.
+Data Quality and Usability
+ Address missing values and ensure correct data types.
+ Evaluate data quality (consistency, completeness, outliers).
+ Improve data presentation with clear visuals and summaries.
+Objectives Section
+Ethan:
+ Expand on the confusion matrix with examples and metrics (accuracy, precision, recall, F1-score).
+Xiao:
+ Highlight the role of heat maps in analysis and ensure clear, relevant visuals.
+Code and Documentation
+ Add detailed Markdown explanations after every code cell.
+ Implement exception handling for potential errors (file handling, computations).
+ Ensure consistent variable naming, formatting (PEP 8), and readability.
+General Improvements
+ Enhance visuals with labels, annotations, and clear captions.
+ Polish the report (academic tone, logical flow, grammar, citations).
+ Conduct a team review and finalize for submission.
