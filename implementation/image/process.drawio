@@ -55,20 +55,29 @@
         <mxCell id="yCvwCY6n7gbBpdRTdTHd-20" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#5278C5;strokeColor=#FFFFFF;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="832.5" y="341" width="35" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TNjaVAWpaWnyHvmUqu6h-1" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Verdana; font-size: 13px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Data Loading&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5278C5;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="TNjaVAWpaWnyHvmUqu6h-1" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Verdana; font-size: 13px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Data Loading&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5278C5;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-110" y="220" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TNjaVAWpaWnyHvmUqu6h-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#5278C5;strokeColor=#FFFFFF;" edge="1" parent="1">
+        <mxCell id="TNjaVAWpaWnyHvmUqu6h-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#5278C5;strokeColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="274.5" as="sourcePoint" />
             <mxPoint x="60" y="274.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TNjaVAWpaWnyHvmUqu6h-3" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Explore the relationship &lt;br&gt;between variables&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5278C5;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="TNjaVAWpaWnyHvmUqu6h-3" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Explore the relationship &lt;br&gt;between variables&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5278C5;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="190" y="391" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TNjaVAWpaWnyHvmUqu6h-4" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#5278C5;strokeColor=#FFFFFF;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="TNjaVAWpaWnyHvmUqu6h-4" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#5278C5;strokeColor=#FFFFFF;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="292.5" y="341" width="35" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsyTOPao5kT1Ea4iSHWB-1" value="&lt;h2&gt;&lt;b style=&quot;color: rgb(255, 255, 255); font-family: Verdana; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&amp;nbsp;Graphical &lt;br&gt;User &lt;br&gt;Interface&lt;/b&gt;&lt;br&gt;&lt;/h2&gt;    " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5278C5;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="970" y="220" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OsyTOPao5kT1Ea4iSHWB-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#5278C5;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="274.5" as="sourcePoint" />
+            <mxPoint x="960" y="274.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
